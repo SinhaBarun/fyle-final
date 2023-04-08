@@ -1,0 +1,8 @@
+[run]
+omit =
+    *env/*
+    *__pycache__/*
+    *.pytest_cache/*
+    *tests/*
+[html]
+show_contexts = True
